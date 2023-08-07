@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @coredev96
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently focusing on BlockChain industry
-- 💞️ I’m open to work on any kind of backend work with Python3
+- 💞️ I’m open to work on any kind of backend work Python3
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/coredev96/)](https://github.com/coredev96/)
