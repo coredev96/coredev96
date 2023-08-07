@@ -1,7 +1,7 @@
 ### About Me:
 - 👋 Hi, I’m @coredev96
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently focusing on BlockChain industry
+- 🌱 I’m currently focusing on Blockchain industry
 - 💞️ I’m open to work on any kind of backend with Python3
 
 ### Languages and Tools:
