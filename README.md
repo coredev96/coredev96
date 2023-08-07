@@ -14,15 +14,10 @@
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/coredev96/)
 [![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/coredev96/)](https://github.com/coredev96/) 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/coredev96/)](https://github.com/coredev96/) 
-[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/coredev96/)](https://github.com/coredev96/) 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/coredev96/)](https://github.com/coredev96/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/coredev96/)](https://github.com/coredev96/) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&link=https://github.com/coredev96/)](https://github.com/coredev96/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/coredev96/)](https://github.com/coredev96/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/coredev96/)](https://github.com/coredev96/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-DDE072?style=flat&logo=mongodb&link=https://github.com/coredev96/)](https://github.com/coredev96/)
-
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/coredev96/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/coredev96/)](https://github.com/coredev96/)
