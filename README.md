@@ -9,7 +9,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/coredev96/)](https://github.com/coredev96/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/coredev96/)](https://github.com/coredev96/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/coredev96/)](https://github.com/coredev96/)
-[![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/msilucifer/)
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/coredev96/)
 [![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/coredev96/)](https://github.com/coredev96/) 
