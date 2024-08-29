@@ -1,8 +1,8 @@
 ### About Me:
 - 👋 Hi, I’m @coredev96
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently focusing on Blockchain industry
-- 💞️ I’m open to work on any kind of backend with Python3 / C++
+- 👀 I’m interested in all things Software Engineering
+- 🌱 I’m currently focusing on Blockchain Data
+- 💞️ Passionate about backend with Python3 / C++
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/coredev96/)](https://github.com/coredev96/)
